@@ -46,54 +46,60 @@ Assigned Readings:
 
 Sugested Readings:
 
-* de Queiroz 1998
-* de Queiroz 2007
+* [de Queiroz 1998](./readings/deQueiroz1998.pdf)
+* [de Queiroz 2007](./readings/deQueiroz2007.pdf)
+* [de Queiroz 1997](./readings/deQueiroz1997.pdf)
 
 **Week 3 What is the evidence for species?**
 
 Assigned Readings: 
 
 * Barraclough 2019, Chapter 3
-* Leache & Fujita 2010
-* Cadena et al. 2018
+* [Leache & Fujita 2010](./readings/Leache.pdf)
+* [Cadena et al. 2018](./readings/Cadena.pdf)
 
 Sugested Readings:
 
-* Yang & Rannala 2010
-* Rannala 2015
+* [Yang & Rannala 2010](./readings/Yang.pdf)
+* [Rannala 2015](./readings/Rannala.pdf)
 
 **Week 4 Why are there species?**
 
 Assigned Readings: 
 
 * Barraclough 2019, Chapter 4, 5
-* Smith & Carstens 2020
+* [Smith & Carstens 2020](./readings/Smith.pdf)
 
 Sugested Readings:
 
-* Barraclough 2003
+* [Barraclough 2003](./readings/Barraclough2003.pdf)
 
 **Week 5 Survey of recent studies**
 
 Assigned Readings: 
 
-* Mallet et al. 2016
-* Hipp 2019
-* Barth et al. 2020
-* Wang et al. 2019
-* Rogers et al. 2019
+* [Mallet et al. 2016](./readings/Mallet2015.pdf)
+* [Barth et al. 2020](./readings/Barth.pdf)
+* [Wang et al. 2019](./readings/Wang2019b.pdf)
+* [Mason and Taylor 2015](./readings/Mason.pdf)
+
+Suggested Readings:
+
+* [Hipp et al. 2019](./readings/Hipp.pdf)
+* [Rogers et al. 2019](./readings/Rogers.pdf)
 
 **Week 6 Do species exist?**
 
 Assigned Readings: 
 
-* Rieseberg et al. 2006
-* Barraclough & Humphreys 2015
-* Barraclough 2010
+* [Rieseberg et al. 2006](./readings/Rieseberg.pdf)
+* [Wang et al. 2019](./readings/Wang2019a.pdf)
 
 Suggested Readings:
 
-* Humphreys & Barraclough 2014
+* [Humphreys & Barraclough 2014](./readings/Humphreys.pdf)
+* [Barraclough & Humphreys 2015](./readings/Barraclough2015.pdf)
+* [Barraclough 2010](./readings/Barraclough2010.pdf)
 
 **Week 7 Species in asexual taxa**
 
